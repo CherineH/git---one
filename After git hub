@@ -1,1 +1,2 @@
 after git hub repo
+Check SSH Connection after git remote set-url origin git+ssh://git@https://github.com/CherineH/git---one.git to make url accept ssh connection
